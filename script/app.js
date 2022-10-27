@@ -1,0 +1,1 @@
+gsap.fromTo('#Robot', { x: 50 }, { duration: 10, x: 50 })
